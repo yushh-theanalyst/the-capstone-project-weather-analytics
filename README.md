@@ -1,10 +1,6 @@
 # THE CAPSTONE PROJECT  
 ## Historical Weather Analytics Dashboard using Power BI
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-![DAX](https://img.shields.io/badge/DAX-Measures-blue)
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green)
-![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-purple)
 
 ---
 
