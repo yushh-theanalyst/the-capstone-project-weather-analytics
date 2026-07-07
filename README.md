@@ -87,17 +87,18 @@ The dashboard tracks the following KPIs:
 
 ## Data Preparation
 
-Before building the dashboard, the dataset was prepared and structured for analysis.
+Before building the Power BI dashboard, the dataset was cleaned and structured using DB Browser for SQLite.
 
 Data preparation steps included:
 
-- Checking column data types
-- Formatting date fields
-- Creating month and season-based analysis
-- Handling blank values in wind direction
-- Creating calculated columns for wind direction grouping
-- Building DAX measures for KPIs
-- Preparing the data model for interactive reporting
+- Imported the raw weather dataset into SQLite using DB Browser
+- Checked column names, data types, and overall table structure
+- Removed unnecessary or irrelevant columns
+- Handled missing and blank values where required
+- Standardized date fields for time-based analysis
+- Verified numeric columns such as temperature, rainfall, wind speed, pressure, sunshine, and snow depth
+- Prepared the cleaned dataset for Power BI reporting
+- Loaded the cleaned data into Power BI for further transformation, DAX measures, and dashboard creation
 
 ---
 
