@@ -28,6 +28,8 @@ The main objective of this project is to create an interactive weather analytics
 ---
 
 ## Dashboard Pages
+<img src="ss1.jpeg"/>
+<img src="ss2.jpeg"/>
 
 ### Weather Overview Dashboard
 
